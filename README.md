@@ -38,7 +38,9 @@
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="2%"/>
     </a>
 </div>
-
+  </div>
+  <p>Customized for traffic control system</p>
+</div>
 <br>
 <p>
 YOLOv5 🚀 is a family of object detection architectures and models pretrained on the COCO dataset, and represents <a href="https://ultralytics.com">Ultralytics</a>
